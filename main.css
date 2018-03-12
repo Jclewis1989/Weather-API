@@ -1,0 +1,93 @@
+body {
+    margin: 80%;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 28px;
+    font-family: Garamond;
+    letter-spacing: 1.5px;
+    color: #222;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-image: url('https://images.pexels.com/photos/231008/pexels-photo-231008.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb');
+    background-position: bottom;
+    background-size: cover;
+  }
+  
+  .header {
+      width: 100%;
+      padding: 25px;
+  }
+  
+  .header--container {
+      width: 60%;
+      margin: 0 auto;
+      background-color: rgba(0, 0, 0, .40);
+      border-radius: 5px;
+      padding: 25px;
+  }
+  
+  h1 {
+    font-family: Helvetica;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  
+  .overlay {
+    width: 50%;
+    margin: 0 auto;
+    height: 525px;
+  }
+  
+  .input {
+    margin: 0 auto;
+    width: 100%;
+    height: 35px;
+    border-radius: 3px;
+    border: 2px solid #f2f2f2;
+    padding: 2px;
+    text-align: center;
+    color: #222;
+    font-family: Helvetica;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  
+  ul li {
+    list-style: none;
+    padding: 0px;
+    margin-top: -15px;
+    margin-left: -40px;
+  }
+  
+  .btn {
+    width: 100%;
+    height: 45px;
+    background-color: rgba(255, 255, 255, .65);
+    border: none;
+    border-radius: 2px;
+    color: #222;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-family: Helvetica;
+    margin: 0 auto;
+  }
+  
+  img {
+    height: 30%;
+  }
+  
+  .paragraph--header {
+    display: inline-block;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
